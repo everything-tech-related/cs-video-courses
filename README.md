@@ -1,4 +1,6 @@
 # Computer Science courses with video lectures
+Forked from Developer-Y. I will be adding more links as they become available to me.
+Please check out my other Repositories
 
 ## Introduction
 
